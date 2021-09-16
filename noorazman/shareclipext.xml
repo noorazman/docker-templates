@@ -14,7 +14,7 @@
   <Support></Support>
   <Registry>https://registry.hub.docker.com/r/noorazman/shareclipext/</Registry>
   <GitHub>https://github.com/noorazman/shareclipext</GitHub>
-  <Repository>noorazman/arch-shareclipext</Repository>
+  <Repository>noorazman/shareclipext</Repository>
   <Project></Project>
   <BindTime>true</BindTime>
   <Privileged>false</Privileged>
